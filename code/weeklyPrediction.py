@@ -1,4 +1,4 @@
-# RNN prediction for each week testing.
+# RNN parking data prediction for each week testing.
 # Run on hourly dataset which contain 168 data per week
 
 import numpy
